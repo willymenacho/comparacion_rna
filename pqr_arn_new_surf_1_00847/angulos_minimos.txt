@@ -1,0 +1,4 @@
+Valor Minimo -15.27290414379786
+rot = 190    tilt = 100
+Valor Mas Cercano a Cero -0.11133461796271149
+rot = 210    tilt = 50
