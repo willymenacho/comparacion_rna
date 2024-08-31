@@ -2,3 +2,7 @@ Valor Minimo -58.77566009046859
 rot = 5    tilt = 125
 Valor Mas Cercano a Cero -0.017622484476305544
 rot = 70    tilt = 35
+Energia promedio Negativa = -20.090950435110646
+N negativa = 1734
+Energia promedio total = -4.920786115564523
+N total = 2701
