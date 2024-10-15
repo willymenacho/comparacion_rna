@@ -6,3 +6,27 @@ Energia promedio Negativa = -9.113170371105738
 N negativa = 1447
 Energia promedio total = 5.785895422797226
 N total = 2701
+
+    
+    
+    
+    valor maximo de contador bead esf5 fosfato = 4
+    valor minimo de contador bead esf5 fosfato = 0
+    valor promedio de contador bead esf5 fosfato = 0.6027397260273972
+
+    valor maximo de contador bead esf15 fosfato = 31
+    valor minimo de contador bead esf15 fosfato = 4
+    valor promedio de contador bead esf15 fosfato = 11.830433172898926
+    
+    
+    
+    
+    
+    valor maximo de contador bead esf25 fosfato = 4656.0
+    valor minimo de contador bead esf25 fosfato = 987.0
+    valor promedio de contador bead esf25 fosfato = 2274.0259163272863
+
+    valor maximo de contador bead esf30 fosfato = 7205.0
+    valor minimo de contador bead esf30 fosfato = 2324.0
+    valor promedio de contador bead esf30 fosfato = 4216.476860422066
+    
